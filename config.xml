@@ -1,0 +1,16 @@
+<? xml version = '1.0' encoding='utf-8'?>
+
+<widget id="com.phonegap.SmartTravel" version="1.0.0"
+		xmlns = "http://www.w3.org/ns/widgets"
+		xmlns:gap = "http://phonegap.com/ns/1.0"
+		<name>Smart Travel</name>
+		<description>
+			Proyecto Mobile
+			Aplicacion de Vuelos,reservas de hoteles,Promos en paquetes.
+		</description>
+		<author email="yairoliva0690@gmail.com">
+			Oliva Yair
+		</author>
+		<content src="index.html" />
+		<access origin="*"/>
+		
